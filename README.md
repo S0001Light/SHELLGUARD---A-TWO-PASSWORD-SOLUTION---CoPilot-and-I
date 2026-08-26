@@ -1,5 +1,7 @@
 USE AT YOUR OWN RISK
 
+NOT made for touchscreen, DO NOT use with touchscreen.
+
 If you forget your password and need to uninstall, 
 
 you will need to delete from startup with safe mode with windows disk. or other boot disk with file manager,
