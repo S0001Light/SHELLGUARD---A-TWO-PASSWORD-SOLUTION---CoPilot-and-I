@@ -1,5 +1,7 @@
 USE AT YOUR OWN RISK
 
+each make password is separate and unique to each ShellGuard
+
 ShellGuard is a two password solution, and takes photos for failure
 
 after you enter your password to Microsoft Windows, the app runs at startup, for another set of passwords to be entered,
