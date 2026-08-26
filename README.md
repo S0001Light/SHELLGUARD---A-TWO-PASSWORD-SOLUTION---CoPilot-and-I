@@ -1,9 +1,6 @@
 USE AT YOUR OWN RISK
 
 
-each make password is separate and unique to each ShellGuard
-
-
 ShellGuard is a two password solution, and takes photos for failure
 
 after you enter your password to Microsoft Windows, the app runs at startup, for another set of passwords to be entered,
@@ -20,3 +17,10 @@ each ShellGuard you can choose multiple or single characters from the alphabet a
 
 You might need Python 3.13.15 installed to get the pip installations to work. And, the newest Python for another pip installation.
 2 Installs
+
+
+each make password is separate and unique to each ShellGuard
+
+if you change your password is as simple as running make_password.py and copying and replacing both key.bin and password.dat to
+
+C:\ShellGuard\*.*
