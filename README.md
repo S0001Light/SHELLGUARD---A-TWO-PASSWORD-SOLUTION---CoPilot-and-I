@@ -1,6 +1,6 @@
 USE AT YOUR OWN RISK
 
-NOT made for touchscreen, DO NOT use with touchscreen.
+NOT made for touchscreen, DO NOT use with touchscreen. ONLY SHELLGUARD 2 is TOUCHSCREEN capable.
 
 If you forget your password and need to uninstall, 
 
