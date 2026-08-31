@@ -1,0 +1,15 @@
+If for some reason you get locked out of your pc completly,
+
+you must have a windows disk, and boot from it, to repair the computer,
+
+once the windows disk boots click repair, goto command prompt,
+
+type cd %appdata%
+
+type cd Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+
+type del shell_guard ( to find the exact name type dir )
+
+also del shell_guard.exe from C:\ShellGuard\*.* ( so it does not boot )
+
+To re-install follow those instructions.
