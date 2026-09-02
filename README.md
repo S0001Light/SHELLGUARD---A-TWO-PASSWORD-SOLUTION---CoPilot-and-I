@@ -1,5 +1,7 @@
 USE AT YOUR OWN RISK
 
+ShellGuard, does not work after using windows key + L, Locking the computer.
+
 NOT made for touchscreen, DO NOT use with touchscreen. ONLY SHELLGUARD 2 is TOUCHSCREEN capable. AND, Now SHELLGUARD 3 as well.
 
 Shell Guard 3 blacks out all monitors, might need repaired, for somereason, it glitchese on and off three times then works?
